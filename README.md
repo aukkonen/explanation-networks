@@ -1,6 +1,6 @@
 # explanation-networks
 
-This repository contains code used for the experiments in the paper "Explaining deviating subsets through explanation networks" (A. Ukkonen, V. Dzyuba & M. van Leeuwen, ECMLPKDD 2017).
+This repository contains code used for experiments in the paper "Explaining deviating subsets through explanation networks" (A. Ukkonen, V. Dzyuba & M. van Leeuwen, ECMLPKDD 2017).
 
 The implementation is written mainly in R. Please see the sources for dependencies to other R-packages (such as `AUC`, `foreign`, `plyr`, and importantly, `rJava`) and install those separately.
 
